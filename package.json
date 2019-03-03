@@ -1,0 +1,17 @@
+{
+  "name": "assignment7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "artists.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
